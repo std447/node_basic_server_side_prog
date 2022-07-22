@@ -1,0 +1,87 @@
+body{
+  background: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+form{
+    /* position: relative; */
+    margin-top: 5vh;
+    height: 40vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1em;
+}
+
+#label-name{
+    font-size: 1.2em;
+    /* color: blue; */
+    font-weight: 600;
+}
+
+
+
+
+button{
+    background-color: red;
+    padding: 5px 2em;
+    border-radius: 5px;
+    border: 2px solid #ff0000;
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    align-self: flex-end;
+}
+
+.statuses{
+    height:150px;
+    width: 60vw;
+    background-color: #fff;
+    position: relative;
+
+    border:2px solid #222;
+    border-left: 1px solid #222;
+    border-right: 1px solid #222;
+    padding: 5px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+.statuses>p{
+    margin: 0;
+    align-self: flex-start;
+}
+
+.status-title{
+    color:blue;
+    text-decoration: underline;
+    margin: 0;
+}
+
+#feed{
+    width: 90%;
+    display: flex;
+    gap: 2%;
+    align-items: center;
+
+}
+
+#my-name{
+    color:brown;
+    font-weight: 700;
+    text-decoration: underline;
+
+}
+
+
+
+

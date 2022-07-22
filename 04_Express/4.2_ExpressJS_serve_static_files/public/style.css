@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background: #f4f3ee;
+    
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.message{
+    font-weight: 600;
+    color: #6b00cd; /*6b00cd */
+}

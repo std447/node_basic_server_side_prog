@@ -1,0 +1,16 @@
+{
+  "name": "write_nd_update_files",
+  "version": "1.0.0",
+  "description": "Writing to a file and updating a file on the fly using Node.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "write",
+    "update",
+    "file"
+  ],
+  "author": "Chinmay",
+  "license": "MIT"
+}

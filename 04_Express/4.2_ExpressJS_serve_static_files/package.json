@@ -1,0 +1,19 @@
+{
+  "name": "4.2_expressjs_serve_static_files",
+  "version": "1.0.0",
+  "description": "Using ExpressJS to serve Static files and Set our View Engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "server",
+    "ExpressJS"
+  ],
+  "author": "Chinmay",
+  "license": "MIT",
+  "devDependencies": {
+    "mustache-express": "^1.3.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "how_module_works",
+  "version": "1.0.0",
+  "description": "How modules work in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "module",
+    "\"nodejs",
+    "modules\""
+  ],
+  "author": "Chinmay",
+  "license": "MIT"
+}

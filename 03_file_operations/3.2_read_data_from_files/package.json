@@ -1,0 +1,20 @@
+{
+  "name": "3.2_read_data_from_files",
+  "version": "1.0.0",
+  "description": "Reading data form files using node:fs module",
+  "main": "app.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file-system",
+    "reading",
+    "data"
+  ],
+  "author": "Chinmay",
+  "license": "MIT",
+  "devDependencies": {
+    "file-system": "^1.2.2",
+    "http": "^0.0.1-security"
+  }
+}

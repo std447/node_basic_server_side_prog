@@ -1,0 +1,14 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "description": "Learn routing in Express.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "routing"
+  ],
+  "author": "Chinmay",
+  "license": "MIT"
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Small Social network app</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Welcome to my app</h1>
+    <form action="status/new" method="post">
+        <label id="label-name" for="input">Name :
+            <input type="text" name="name" id="name" placeholder="Enter your name">
+        </label>
+        
+        <textarea name="status" id="status" cols="50" rows="8" placeholder="Post something cool"></textarea>
+        <button type="submit" class="submit">Submit</button>
+    </form>
+
+    <div class="statuses">
+        <h3 class="status-title">Our feed:</h3>
+        <div id="feed">
+            <p class="abs" id="my-name"></p>
+            <p class="abs" id="my-status"></p>
+        </div>
+            
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

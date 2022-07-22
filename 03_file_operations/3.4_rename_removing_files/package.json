@@ -1,0 +1,17 @@
+{
+  "name": "3.4_rename_removing_files",
+  "version": "1.0.0",
+  "description": "Renaming and removing files using file system.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rename",
+    "remove",
+    "file",
+    "files"
+  ],
+  "author": "Chinmay",
+  "license": "MIT"
+}

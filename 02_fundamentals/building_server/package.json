@@ -1,0 +1,16 @@
+{
+  "name": "building_server",
+  "version": "1.0.0",
+  "description": "Build first server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "server"
+  ],
+  "author": "Chinmay",
+  "license": "MIT"
+}
