@@ -62,12 +62,16 @@
 ```
 
 ### How it relates to an express server
-    1. For creating server for simple tasks we don't need heavy framework such as Express.JS
-    1. Instead we can use light-weight `http` module
-    1. Under the hood express uses http module to create its own server
+
+  1. For creating server for simple tasks we don't need heavy framework such as Express.JS
+  1. Instead we can use light-weight `http` module.
+  1. Under the hood express uses http module to create its own server
 
 
 ### Response and Request
+
+  
+
     - Clients always makes requests 
         - eg. Http page
         - file,etc.
@@ -207,3 +211,5 @@ fs.unlink('./path/file.txt',(err)=>{
     }
 })
 ```
+
+
